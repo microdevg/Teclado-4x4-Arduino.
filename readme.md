@@ -1,5 +1,7 @@
 
 ![Diagrama del Teclado Matricial](./img/teclado.png)
+![Diagrama del Conexion con el Arduino Mega](./img/conexion.png)
+
 
 ```c 
 // Definir los pines de las filas y columnas
