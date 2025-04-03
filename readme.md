@@ -1,5 +1,5 @@
 
-![Diagrama del Teclado Matricial](./img/teclado.png)
+![Diagrama del Teclado Matricial](./img/teclado.jpg)
 ![Diagrama del Conexion con el Arduino Mega](./img/conexion.png)
 
 
